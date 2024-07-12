@@ -1,0 +1,19 @@
+GIT Command Class 2
+
+(git status)  tell us about tracked/Modified/commited files/folders
+
+git add fileName (file goes in staging zone)
+
+git rm --cached fileName (take out of staged zone back to untracked zone)
+
+git commit -m "MessageForCommit" (save the change till that point with message)
+
+git log (shows track ID, previous commit/change)
+
+git config --global user.name "GITHUB_USERNAME"
+
+git config --global user.email "GITHUB_EMAIL"
+
+(without writing {NAME/EMAIL} it will tell us our email and username)
+
+git log --online (show commit log messages)
