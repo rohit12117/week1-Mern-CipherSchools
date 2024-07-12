@@ -1,0 +1,7 @@
+git add . (also add Modified changes)
+
+//checkout
+git checkout TRACK_ID (from git log --online) tell use how project was at that commit now <git log> it show only upto that particular commit only.... 😮 to go back use git checkout master
+
+NOTE: If you want to change history you can but not in same BRANCH_NAME
+
